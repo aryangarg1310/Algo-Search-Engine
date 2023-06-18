@@ -6,13 +6,13 @@
 2. pip (Python package installer)
 3. Clone the repository to your local machine.
 4. Install the dependencies by running the following command:
-5. Install the following packages using pip.
-   pip install chardet
-   pip install string
-   pip install os
-   pip install re
-   pip install flask
-   pip install flash-wtf
-   pip install flask_wtf
-   pip install wtforms
+5. Install the following packages using pip.<br />
+      pip install chardet<br />
+      pip install string<br />
+      pip install os<br />
+      pip install re<br />
+      pip install flask<br />
+      pip install flash-wtf<br />
+      pip install flask_wtf<br />
+      pip install wtforms<br />
 6. To run the file we use the command in the folder in which app.py is present - flask --app app run
